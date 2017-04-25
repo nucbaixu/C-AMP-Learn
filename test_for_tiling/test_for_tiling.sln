@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_for_tiling", "test_for_tiling\test_for_tiling.vcxproj", "{183D146D-D08A-4CD4-AFF5-95A349F6D307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183D146D-D08A-4CD4-AFF5-95A349F6D307}.Debug|Win32.ActiveCfg = Debug|Win32
+		{183D146D-D08A-4CD4-AFF5-95A349F6D307}.Debug|Win32.Build.0 = Debug|Win32
+		{183D146D-D08A-4CD4-AFF5-95A349F6D307}.Release|Win32.ActiveCfg = Release|Win32
+		{183D146D-D08A-4CD4-AFF5-95A349F6D307}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

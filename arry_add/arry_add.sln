@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arry_add", "arry_add\arry_add.vcxproj", "{4F142C9E-6FA8-4D14-8C1D-7841FEF18948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F142C9E-6FA8-4D14-8C1D-7841FEF18948}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F142C9E-6FA8-4D14-8C1D-7841FEF18948}.Debug|Win32.Build.0 = Debug|Win32
+		{4F142C9E-6FA8-4D14-8C1D-7841FEF18948}.Release|Win32.ActiveCfg = Release|Win32
+		{4F142C9E-6FA8-4D14-8C1D-7841FEF18948}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
